@@ -1,0 +1,6 @@
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\bin\Debug\sumowanie.exe
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\bin\Debug\sumowanie.pdb
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\obj\Debug\sumowanie.csproj.AssemblyReference.cache
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\obj\Debug\sumowanie.csproj.CoreCompileInputs.cache
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\obj\Debug\sumowanie.exe
+C:\Users\sirca\Documents\GitHub\SumowanieCS\sumowanie\obj\Debug\sumowanie.pdb
