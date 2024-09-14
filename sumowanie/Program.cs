@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace zliczanie
+namespace sumowanie
 {
     class Program
     {
