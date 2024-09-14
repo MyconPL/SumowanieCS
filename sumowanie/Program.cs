@@ -22,6 +22,7 @@ namespace zliczanie
                 }
             }
             Console.WriteLine($"Wynik końcowy: {result}");
+            Console.WriteLine($"Kocham piwo");
         }
     }
 }
