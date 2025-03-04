@@ -17,7 +17,7 @@ namespace sumowanie
                     Console.WriteLine($"Aktualny wynik: {result}");
                 } 
                 else
-                {//komentarz
+                {
                     break;
                 }
             }
